@@ -1,3 +1,3 @@
 # Portfolio
 
-Various smaller projects mainly for univeristy or high school
+Various smaller projects mainly for univeristy and high school
